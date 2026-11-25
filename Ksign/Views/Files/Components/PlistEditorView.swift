@@ -102,7 +102,7 @@ struct PlistEditorView: View {
                         .font(.headline)
                         .fontWeight(.semibold)
                     
-                    Text("\(viewModel.plistItems.count) item\(viewModel.plistItems.count == 1 ? "" : "s")")
+                    Text("\(viewModel.plistItems.count) Items")
                         .font(.caption)
                         .foregroundColor(.secondary)
                 }

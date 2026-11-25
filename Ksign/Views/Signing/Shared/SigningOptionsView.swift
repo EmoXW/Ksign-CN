@@ -90,7 +90,7 @@ struct SigningOptionsView: View {
                     temporaryValue: temporaryOptions?.proMotion
             )
             
-            _toggle("GameMode",
+            _toggle(.localized("GameMode"),
                     systemImage: "gamecontroller",
                     isOn: $options.gameMode,
                     temporaryValue: temporaryOptions?.gameMode
@@ -203,7 +203,7 @@ struct SigningOptionsView: View {
     ) -> some View where SelectionValue: Hashable {
         Picker(selection: selection) {
             ForEach(values, id: id) { value in
-                Text(String(describing: value))
+                Text(String.localized(String(describing: value)))
             }
         } label: {
             Label(title, systemImage: systemImage)

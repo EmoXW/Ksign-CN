@@ -181,6 +181,18 @@
               }
             }
           }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 个应用"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -360,6 +372,18 @@
               }
             }
           }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 天"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -387,6 +411,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$lld mục"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld 项%2$@"
           }
         }
       }
@@ -447,6 +477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không hiển thị những %lld thư viện hệ thống bắt buộc"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已隐藏 %lld 个必需的系统动态库"
           }
         }
       }
@@ -544,6 +580,18 @@
             "state" : "translated",
             "value" : "%lld nguồn"
           }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 个软件源"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -614,6 +662,12 @@
             "state" : "translated",
             "value" : "Giới thiệu"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于"
+          }
         }
       }
     },
@@ -641,6 +695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Về phiên bản Feather gốc"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于原版 Feather"
           }
         }
       }
@@ -701,6 +761,12 @@
             "state" : "translated",
             "value" : "Thêm"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加"
+          }
         }
       }
     },
@@ -711,6 +777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thêm và quản lý chứng chỉ ký ứng dụng."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加和管理用于应用签名的证书。"
           }
         }
       }
@@ -733,6 +805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thêm tải về"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加下载"
           }
         }
       }
@@ -792,6 +870,12 @@
             "state" : "translated",
             "value" : "Thêm nguồn"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加软件源"
+          }
         }
       }
     },
@@ -814,6 +898,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Các điều chỉnh đã thêm"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已添加的插件"
           }
         }
       }
@@ -874,6 +964,12 @@
             "state" : "translated",
             "value" : "Ký Ad-Hoc"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ad Hoc 签名"
+          }
         }
       }
     },
@@ -933,6 +1029,12 @@
             "state" : "translated",
             "value" : "Nâng cao"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级"
+          }
         }
       }
     },
@@ -956,6 +1058,12 @@
             "state" : "translated",
             "value" : "Phương pháp cài đặt nâng cao"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "高级安装方式"
+          }
         }
       }
     },
@@ -978,6 +1086,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cảnh báo"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提示"
           }
         }
       }
@@ -1038,6 +1152,12 @@
             "state" : "translated",
             "value" : "Tất cả"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部"
+          }
         }
       }
     },
@@ -1060,6 +1180,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tất cả các tệp của Ksign trừ chứng chỉ được chứa trong thư mục tài liệu, đây là một số liên kết nhanh đến chúng."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "除证书外，Ksign 的所有文件均保存在文稿目录中，可通过以下快捷入口访问。"
           }
         }
       }
@@ -1121,6 +1247,12 @@
             "state" : "translated",
             "value" : "Tất cả kho ứng dụng"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有软件源"
+          }
         }
       }
     },
@@ -1179,6 +1311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Icon thay thế"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备用图标"
           }
         }
       }
@@ -1240,6 +1378,12 @@
             "state" : "translated",
             "value" : "Một ứng dụng tuyệt vời"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一款很棒的应用"
+          }
         }
       }
     },
@@ -1262,6 +1406,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mội lỗi không xác định đã xảy ra"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发生未知错误"
           }
         }
       }
@@ -1322,6 +1472,12 @@
             "state" : "translated",
             "value" : "Tính năng"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用功能"
+          }
         }
       }
     },
@@ -1344,6 +1500,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Biểu tượng app"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用图标"
           }
         }
       }
@@ -1368,6 +1530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Store"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用商店"
           }
         }
       }
@@ -1428,6 +1596,12 @@
             "state" : "translated",
             "value" : "Giao diện"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外观"
+          }
         }
       }
     },
@@ -1487,6 +1661,12 @@
             "state" : "translated",
             "value" : "Tên AppID"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App ID 名称"
+          }
         }
       }
     },
@@ -1510,6 +1690,12 @@
             "state" : "translated",
             "value" : "Lưu trữ & giải nén"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "压缩与解压"
+          }
         }
       }
     },
@@ -1532,6 +1718,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Các điều chỉnh có sẵn"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可用插件"
           }
         }
       }
@@ -1593,6 +1785,12 @@
             "state" : "translated",
             "value" : "Mật khẩu sai"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密码错误"
+          }
         }
       }
     },
@@ -1651,6 +1849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mô tả chi tiết"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大号描述"
           }
         }
       }
@@ -1711,6 +1915,12 @@
             "state" : "translated",
             "value" : "Gói"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用包"
+          }
         }
       }
     },
@@ -1768,6 +1978,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hủy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
           }
         }
       }
@@ -1827,6 +2043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chứng chỉ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书"
           }
         }
       }
@@ -1888,6 +2110,12 @@
             "state" : "translated",
             "value" : "Chứng chỉ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书"
+          }
         }
       }
     },
@@ -1947,6 +2175,12 @@
             "state" : "translated",
             "value" : "Thay đổi"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更改"
+          }
         }
       }
     },
@@ -1969,6 +2203,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chọn một hành động"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择操作"
           }
         }
       }
@@ -2030,6 +2270,12 @@
             "state" : "translated",
             "value" : "Chọn từ Tệp"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从文件中选择"
+          }
         }
       }
     },
@@ -2090,6 +2336,12 @@
             "state" : "translated",
             "value" : "Chọn từ Thư viện"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从照片中选择"
+          }
         }
       }
     },
@@ -2112,6 +2364,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chọn một thư viện để giải nén. Đề xuất sử dụng ZIPFoundation cho những file lớn hoặc khi Zip bị ngu."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择用于解压文件的库。解压大文件或 Zip 无法正常工作时，建议使用 ZIPFoundation。"
           }
         }
       }
@@ -2171,6 +2429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đóng"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭"
           }
         }
       }
@@ -2232,6 +2496,12 @@
             "state" : "translated",
             "value" : "Mức độ nén"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "压缩级别"
+          }
         }
       }
     },
@@ -2291,6 +2561,12 @@
             "state" : "translated",
             "value" : "Sao chép"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制"
+          }
         }
       }
     },
@@ -2313,6 +2589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tạo"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建"
           }
         }
       }
@@ -2373,6 +2655,12 @@
             "state" : "translated",
             "value" : "Bản quyền & tác giả"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鸣谢"
+          }
         }
       }
     },
@@ -2431,6 +2719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tùy chỉnh"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义"
           }
         }
       }
@@ -2491,6 +2785,12 @@
             "state" : "translated",
             "value" : "Ngày"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日期"
+          }
         }
       }
     },
@@ -2549,6 +2849,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ngày thêm"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加日期"
           }
         }
       }
@@ -2609,6 +2915,12 @@
             "state" : "translated",
             "value" : "Mặc định"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "默认"
+          }
         }
       }
     },
@@ -2667,6 +2979,12 @@
             "state" : "translated",
             "value" : "Xóa"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除"
+          }
         }
       }
     },
@@ -2690,6 +3008,12 @@
             "state" : "translated",
             "value" : "Mô tả"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "描述"
+          }
         }
       }
     },
@@ -2711,6 +3035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Huỷ bỏ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "放弃更改"
           }
         }
       }
@@ -2831,6 +3161,12 @@
             "state" : "translated",
             "value" : "Bỏ qua"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭"
+          }
         }
       }
     },
@@ -2890,6 +3226,12 @@
             "state" : "translated",
             "value" : "Tên hiển thị"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示名称"
+          }
         }
       }
     },
@@ -2948,6 +3290,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ủng hộ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "捐赠"
           }
         }
       }
@@ -3009,6 +3357,12 @@
             "state" : "translated",
             "value" : "Ủng hộ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "捐赠"
+          }
         }
       }
     },
@@ -3036,6 +3390,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Xong"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完成"
           }
         }
       }
@@ -3097,6 +3457,12 @@
             "state" : "translated",
             "value" : "Tải xuống LocalDevVPN"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载 LocalDevVPN"
+          }
         }
       }
     },
@@ -3119,6 +3485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đã tải về"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已下载"
           }
         }
       }
@@ -3143,6 +3515,12 @@
             "state" : "translated",
             "value" : "Ứng dụng đã tải về"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已下载的应用"
+          }
         }
       }
     },
@@ -3165,6 +3543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đang tải xuống"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在下载"
           }
         }
       }
@@ -3194,6 +3578,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tải về"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载"
           }
         }
       }
@@ -3255,6 +3645,12 @@
             "state" : "translated",
             "value" : "Dylibs"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dylibs"
+          }
         }
       }
     },
@@ -3276,6 +3672,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chỉnh sửa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑"
           }
         }
       }
@@ -3299,6 +3701,12 @@
             "state" : "translated",
             "value" : "Sửa đổi giá trị"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑值"
+          }
         }
       }
     },
@@ -3320,6 +3728,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Điều chỉnh giá trị cho key: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编辑键 %@ 的值"
           }
         }
       }
@@ -3343,6 +3757,12 @@
             "state" : "translated",
             "value" : ".plist trống"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "属性列表为空"
+          }
         }
       }
     },
@@ -3365,6 +3785,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bật Liquid Glass"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用液态玻璃"
           }
         }
       }
@@ -3425,6 +3851,12 @@
             "state" : "translated",
             "value" : "Việc sử dụng bất kỳ biện pháp bảo vệ nào sẽ thêm một chuỗi ngẫu nhiên vào bundleidentifiers của các ứng dụng bạn ký, điều này để đảm bảo Apple ID của bạn không bị Apple đánh dấu. Tuy nhiên, khi sử dụng dịch vụ ký, bạn có thể bỏ qua điều này."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用任一保护选项后，会在所签名应用的包标识符后附加随机字符串，以避免 Apple ID 被 Apple 标记。使用签名服务时可忽略此选项。"
+          }
         }
       }
     },
@@ -3448,6 +3880,12 @@
             "state" : "translated",
             "value" : "Điền tên cho thư mục mới"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入新文件夹的名称"
+          }
         }
       }
     },
@@ -3470,6 +3908,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Điền tên mới"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入新名称"
           }
         }
       }
@@ -3530,6 +3974,12 @@
             "state" : "translated",
             "value" : "Nhập URL để bắt đầu xác thực."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入 URL 以开始验证。"
+          }
         }
       }
     },
@@ -3552,6 +4002,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhập mật khẩu chứng chỉ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入证书密码"
           }
         }
       }
@@ -3612,6 +4068,12 @@
             "state" : "translated",
             "value" : "Nhập mật khẩu"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入密码"
+          }
         }
       }
     },
@@ -3671,6 +4133,12 @@
             "state" : "translated",
             "value" : "Nhập mật khẩu liên kết với khóa riêng tư. Để trống nếu không yêu cầu mật khẩu."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入私钥的密码。如无需密码，请留空。"
+          }
         }
       }
     },
@@ -3693,6 +4161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhập mật khẩu của chứng chỉ. Bỏ trống nếu không có mật khẩu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入证书密码。如无需密码，请留空。"
           }
         }
       }
@@ -3717,6 +4191,12 @@
             "state" : "translated",
             "value" : "Nhập URL của website chứa tệp IPA"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入包含 IPA 文件的网站 URL"
+          }
         }
       }
     },
@@ -3739,6 +4219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhập URL của trang web chứa tệp IPA (cài đặt trực tiếp / ITMS Services) hoặc URL trực tiếp đến tệp IPA. Các định dạng được hỗ trợ:\n- https://example.com\n- itms-services://?url=https://example.com\n- https://example.com/app.ipa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入包含 IPA 文件的网站 URL（直接安装或 ITMS Services），或 IPA 文件的下载链接。支持以下格式：\n- https://example.com\n- itms-services://?url=https://example.com\n- https://example.com/app.ipa"
           }
         }
       }
@@ -3763,6 +4249,12 @@
             "state" : "translated",
             "value" : "Nhập URL"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入 URL"
+          }
         }
       }
     },
@@ -3785,6 +4277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhập URL Website"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入网站 URL"
           }
         }
       }
@@ -3845,6 +4343,12 @@
             "state" : "translated",
             "value" : "Quyền hạn"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授权权限"
+          }
         }
       }
     },
@@ -3874,6 +4378,12 @@
             "state" : "translated",
             "value" : "Lỗi"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "错误"
+          }
         }
       }
     },
@@ -3897,6 +4407,12 @@
             "state" : "translated",
             "value" : "Lỗi khi giải nén: %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解压文件时出错：%@"
+          }
         }
       }
     },
@@ -3919,6 +4435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lỗi: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "错误：%@"
           }
         }
       }
@@ -3979,6 +4501,12 @@
             "state" : "translated",
             "value" : "Tệp thực thi"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可执行文件"
+          }
         }
       }
     },
@@ -4037,6 +4565,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dylib hiện có"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "现有动态库"
           }
         }
       }
@@ -4097,6 +4631,12 @@
             "state" : "translated",
             "value" : "Đã hết hạn"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已过期"
+          }
         }
       }
     },
@@ -4155,6 +4695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hết hạn vào"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "到期时间"
           }
         }
       }
@@ -4216,6 +4762,12 @@
             "state" : "translated",
             "value" : "Xuất"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出"
+          }
         }
       }
     },
@@ -4238,6 +4790,12 @@
             "state" : "translated",
             "value" : "Xuất ra ứng dụng Tệp"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出到“文件”"
+          }
         }
       }
     },
@@ -4259,6 +4817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giải nén"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解压"
           }
         }
       }
@@ -4283,6 +4847,12 @@
             "state" : "translated",
             "value" : "Đang giải nén %lld%%"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在解压 %lld%%"
+          }
         }
       }
     },
@@ -4305,6 +4875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thư viện giải nén"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解压库"
           }
         }
       }
@@ -4365,6 +4941,12 @@
             "state" : "translated",
             "value" : "Tải xuống thất bại, vui lòng kiểm tra kết nối internet của bạn và thử lại."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载失败，请检查网络连接后重试。"
+          }
         }
       }
     },
@@ -4388,6 +4970,12 @@
             "state" : "translated",
             "value" : "Lỗi khi nhập vào thư viện: %@"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入应用库失败：%@"
+          }
         }
       }
     },
@@ -4410,6 +4998,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lỗi khi đóng gói IPA: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打包 IPA 失败：%@"
           }
         }
       }
@@ -4470,6 +5064,12 @@
             "state" : "translated",
             "value" : "Tính năng"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "功能"
+          }
         }
       }
     },
@@ -4492,6 +5092,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đang tải…"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在获取…"
           }
         }
       }
@@ -4516,6 +5122,12 @@
             "state" : "translated",
             "value" : "Giải nén tệp thành công"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件解压成功"
+          }
         }
       }
     },
@@ -4538,6 +5150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lỗi khi nhập tệp: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件导入出错：%@"
           }
         }
       }
@@ -4567,6 +5185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tên tệp"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件名"
           }
         }
       }
@@ -4628,6 +5252,12 @@
             "state" : "translated",
             "value" : "Chia sẻ tệp"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件共享"
+          }
         }
       }
     },
@@ -4686,6 +5316,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tệp"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件"
           }
         }
       }
@@ -4746,6 +5382,12 @@
             "state" : "translated",
             "value" : "Lọc theo"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "筛选条件"
+          }
         }
       }
     },
@@ -4774,6 +5416,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tên thư mục"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件夹名称"
           }
         }
       }
@@ -4834,6 +5482,12 @@
             "state" : "translated",
             "value" : "Bắt buộc Bản địa hóa"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "强制本地化"
+          }
         }
       }
     },
@@ -4892,6 +5546,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frameworks"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "框架"
           }
         }
       }
@@ -4952,6 +5612,12 @@
             "state" : "translated",
             "value" : "Frameworks & Plugins"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "框架与插件"
+          }
         }
       }
     },
@@ -5010,6 +5676,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cục bộ hoàn toàn"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完全本地"
           }
         }
       }
@@ -5070,6 +5742,12 @@
             "state" : "translated",
             "value" : "Chung"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通用"
+          }
         }
       }
     },
@@ -5092,6 +5770,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhận"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "获取"
           }
         }
       }
@@ -5151,6 +5835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhận quyền truy cập vào Discord riêng của chúng tôi bằng cách ủng hộ, nơi chúng tôi thảo luận về các bản cập nhật tương lai, phiên bản beta và các cách tiềm năng để cải thiện trải nghiệm của bạn."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "捐赠后即可加入专属 Discord 社区，与我们交流未来更新、测试版本，以及改善使用体验的建议。"
           }
         }
       }
@@ -5212,6 +5902,12 @@
             "state" : "translated",
             "value" : "Xem thông tin"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示信息"
+          }
         }
       }
     },
@@ -5234,6 +5930,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bắt đầu bằng cách tải IPA đầu tiên của bạn."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载第一个 IPA 文件以开始使用。"
           }
         }
       }
@@ -5258,6 +5960,12 @@
             "state" : "translated",
             "value" : "Bắt đầu bằng cách nhập tệp đầu tiên của bạn."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入第一个文件以开始使用。"
+          }
         }
       }
     },
@@ -5281,6 +5989,12 @@
             "state" : "translated",
             "value" : "Bắt đầu bằng cách nhập tệp IPA đầu tiên của bạn."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 IPA 文件以开始使用。"
+          }
         }
       }
     },
@@ -5303,6 +6017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bắt đầu bằng cách nhập chứng chỉ đầu tiên của bạn."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入第一个证书以开始签名。"
           }
         }
       }
@@ -5363,6 +6083,12 @@
             "state" : "translated",
             "value" : "Kho lưu trữ GitHub"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub 仓库"
+          }
         }
       }
     },
@@ -5385,6 +6111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đi"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前往"
           }
         }
       }
@@ -5445,6 +6177,12 @@
             "state" : "translated",
             "value" : "Heartbeat"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心跳连接"
+          }
         }
       }
     },
@@ -5504,6 +6242,12 @@
             "state" : "translated",
             "value" : "Trợ giúp"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帮助"
+          }
         }
       }
     },
@@ -5525,6 +6269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chỉnh sửa Hex"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "十六进制编辑器"
           }
         }
       }
@@ -5585,6 +6335,12 @@
             "state" : "translated",
             "value" : "Ẩn"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隐藏"
+          }
         }
       }
     },
@@ -5643,6 +6399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Định danh"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标识符"
           }
         }
       }
@@ -5703,6 +6465,12 @@
             "state" : "translated",
             "value" : "Định danh"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标识符"
+          }
         }
       }
     },
@@ -5762,6 +6530,12 @@
             "state" : "translated",
             "value" : "Tiền tố định danh"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标识符前缀"
+          }
         }
       }
     },
@@ -5790,6 +6564,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đây là phương thức cài đặt nâng cao, yêu cầu phải có máy tính để sử dụng. Bạn có chắc chắn không?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这是一种需要使用电脑的高级安装方式，是否继续？"
           }
         }
       }
@@ -5850,6 +6630,12 @@
             "state" : "translated",
             "value" : "Nhập"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入"
+          }
         }
       }
     },
@@ -5871,6 +6657,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhập chứng chỉ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入证书"
           }
         }
       }
@@ -5931,6 +6723,12 @@
             "state" : "translated",
             "value" : "Nhập tệp chứng chỉ .p12"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入证书文件（.p12）"
+          }
         }
       }
     },
@@ -5958,6 +6756,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhập từ Tệp"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入文件"
           }
         }
       }
@@ -6019,6 +6823,12 @@
             "state" : "translated",
             "value" : "Nhập từ Tệp"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从文件导入"
+          }
         }
       }
     },
@@ -6079,6 +6889,12 @@
             "state" : "translated",
             "value" : "Nhập từ URL"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "从 URL 导入"
+          }
         }
       }
     },
@@ -6137,6 +6953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhập tệp ghép nối"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入配对文件"
           }
         }
       }
@@ -6197,6 +7019,12 @@
             "state" : "translated",
             "value" : "Nhập tệp provisioning"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入描述文件"
+          }
         }
       }
     },
@@ -6224,6 +7052,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nhập vào thư viện"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入应用库"
           }
         }
       }
@@ -6284,6 +7118,12 @@
             "state" : "translated",
             "value" : "Đã nhập"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已导入"
+          }
         }
       }
     },
@@ -6306,6 +7146,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đang nhập %lld%%"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在导入 %lld%%"
           }
         }
       }
@@ -6366,6 +7212,12 @@
             "state" : "translated",
             "value" : "Thông tin"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "信息"
+          }
         }
       }
     },
@@ -6388,6 +7240,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thông tin"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "详细信息"
           }
         }
       }
@@ -6448,6 +7306,12 @@
             "state" : "translated",
             "value" : "Cài đặt"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装"
+          }
         }
       }
     },
@@ -6470,6 +7334,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cài đặt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装"
           }
         }
       }
@@ -6530,6 +7400,12 @@
             "state" : "translated",
             "value" : "Phương thức cài đặt"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安装方式"
+          }
         }
       }
     },
@@ -6588,6 +7464,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toàn màn hình iPad"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPad 全屏"
           }
         }
       }
@@ -6649,6 +7531,12 @@
             "state" : "translated",
             "value" : "Chia sẻ tệp qua iTunes"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTunes 文件共享"
+          }
         }
       }
     },
@@ -6671,6 +7559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cho phép chạy nền"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保持应用在后台运行"
           }
         }
       }
@@ -6732,6 +7626,12 @@
             "state" : "translated",
             "value" : "Thư viện"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用库"
+          }
         }
       }
     },
@@ -6791,6 +7691,12 @@
             "state" : "translated",
             "value" : "Giao diện thư viện"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用库列表样式"
+          }
         }
       }
     },
@@ -6814,6 +7720,12 @@
             "state" : "translated",
             "value" : "Nhật ký"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日志"
+          }
         }
       }
     },
@@ -6836,6 +7748,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sử dụng App ID (mã định danh app) của chứng chỉ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹配证书的 App ID"
           }
         }
       }
@@ -6897,6 +7815,12 @@
             "state" : "translated",
             "value" : "Yêu cầu tối thiểu"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最低系统版本"
+          }
         }
       }
     },
@@ -6955,6 +7879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Khác"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "其他"
           }
         }
       }
@@ -7015,6 +7945,12 @@
             "state" : "translated",
             "value" : "Chỉnh sửa"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改"
+          }
         }
       }
     },
@@ -7036,6 +7972,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Di chuyển"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移动"
           }
         }
       }
@@ -7096,6 +8038,12 @@
             "state" : "translated",
             "value" : "Tên"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名称"
+          }
         }
       }
     },
@@ -7154,6 +8102,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mới"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建"
           }
         }
       }
@@ -7214,6 +8168,12 @@
             "state" : "translated",
             "value" : "Chứng chỉ mới"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建证书"
+          }
         }
       }
     },
@@ -7242,6 +8202,12 @@
             "state" : "translated",
             "value" : "Thư mục mới"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建文件夹"
+          }
         }
       }
     },
@@ -7264,6 +8230,12 @@
             "state" : "translated",
             "value" : "Tệp văn bản mới"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新建文本文件"
+          }
         }
       }
     },
@@ -7285,6 +8257,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tiếp tục"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下一项"
           }
         }
       }
@@ -7346,6 +8324,12 @@
             "state" : "translated",
             "value" : "Biệt danh (Tùy chọn)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "备注名称（可选）"
+          }
         }
       }
     },
@@ -7368,6 +8352,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không có ứng dụng nào"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无应用"
           }
         }
       }
@@ -7428,6 +8418,12 @@
             "state" : "translated",
             "value" : "Không có chứng chỉ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无证书"
+          }
         }
       }
     },
@@ -7451,6 +8447,12 @@
             "state" : "translated",
             "value" : "Không có IPA nào"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无已下载的 IPA"
+          }
         }
       }
     },
@@ -7473,6 +8475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chưa chọn tệp nào"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未选择文件"
           }
         }
       }
@@ -7502,6 +8510,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không có tệp nào"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无文件"
           }
         }
       }
@@ -7562,6 +8576,12 @@
             "state" : "translated",
             "value" : "Không tìm thấy tệp ghép nối, vui lòng nhập tệp."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未找到配对文件，请先导入。"
+          }
         }
       }
     },
@@ -7585,6 +8605,12 @@
             "state" : "translated",
             "value" : "Không có điều chỉnh"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无插件"
+          }
         }
       }
     },
@@ -7607,6 +8633,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thông báo khi hoàn tất tải về"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载完成时通知"
           }
         }
       }
@@ -7667,6 +8699,12 @@
             "state" : "translated",
             "value" : "OK"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确定"
+          }
         }
       }
     },
@@ -7725,6 +8763,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chỉ sử dụng địa chỉ localhost"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅使用本机地址"
           }
         }
       }
@@ -7785,6 +8829,12 @@
             "state" : "translated",
             "value" : "Mở"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开"
+          }
         }
       }
     },
@@ -7843,6 +8893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mở kho lưu trữ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开归档目录"
           }
         }
       }
@@ -7903,6 +8959,12 @@
             "state" : "translated",
             "value" : "Mở chứng chỉ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开证书目录"
+          }
         }
       }
     },
@@ -7961,6 +9023,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mở tài liệu"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开文稿目录"
           }
         }
       }
@@ -8021,6 +9089,12 @@
             "state" : "translated",
             "value" : "Mở trong Tệp"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在“文件”中打开"
+          }
         }
       }
     },
@@ -8042,6 +9116,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đóng gói thành IPA"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打包为 IPA"
           }
         }
       }
@@ -8102,6 +9182,12 @@
             "state" : "translated",
             "value" : "Hướng dẫn về tệp ghép nối"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "配对文件指南"
+          }
         }
       }
     },
@@ -8161,6 +9247,12 @@
             "state" : "translated",
             "value" : "Mật khẩu"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密码"
+          }
         }
       }
     },
@@ -8183,6 +9275,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mật khẩu (để trống nếu không có)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密码（无密码请留空）"
           }
         }
       }
@@ -8243,6 +9341,12 @@
             "state" : "translated",
             "value" : "Viên"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "胶囊样式"
+          }
         }
       }
     },
@@ -8301,6 +9405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nền tảng"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平台"
           }
         }
       }
@@ -8362,6 +9472,12 @@
             "state" : "translated",
             "value" : "Vui lòng kiểm tra mật khẩu và thử lại."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请检查密码后重试。"
+          }
         }
       }
     },
@@ -8421,6 +9537,12 @@
             "state" : "translated",
             "value" : "Vui lòng vào cài đặt và nhập chứng chỉ hợp lệ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请前往设置导入有效证书"
+          }
         }
       }
     },
@@ -8442,6 +9564,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bộ chỉnh sửa Plist"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "属性列表编辑器"
           }
         }
       }
@@ -8502,6 +9630,12 @@
             "state" : "translated",
             "value" : "Bảo vệ PPQ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PPQ 保护"
+          }
         }
       }
     },
@@ -8524,6 +9658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tiền tố"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前缀"
           }
         }
       }
@@ -8549,6 +9689,12 @@
             "state" : "translated",
             "value" : "Tiền tố / Hậu tố sẽ được thêm vào tên app ở trước và sau tên app"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "前缀和后缀将分别添加到应用名称的前面和后面。"
+          }
         }
       }
     },
@@ -8570,6 +9716,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Xem trước"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览"
           }
         }
       }
@@ -8631,6 +9783,12 @@
             "state" : "translated",
             "value" : "Phiên bản trước đó"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "历史版本"
+          }
         }
       }
     },
@@ -8691,6 +9849,12 @@
             "state" : "translated",
             "value" : "Thuộc tính"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "属性"
+          }
         }
       }
     },
@@ -8749,6 +9913,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bảo vệ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保护"
           }
         }
       }
@@ -8809,6 +9979,12 @@
             "state" : "translated",
             "value" : "Cấp phép tất cả thiết bị"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "允许所有设备"
+          }
         }
       }
     },
@@ -8867,6 +10043,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thiết bị đã cấp phép"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "授权设备"
           }
         }
       }
@@ -8927,6 +10109,12 @@
             "state" : "translated",
             "value" : "Ký lại"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新签名"
+          }
         }
       }
     },
@@ -8985,6 +10173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Loại bỏ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除选项"
           }
         }
       }
@@ -9045,6 +10239,12 @@
             "state" : "translated",
             "value" : "Loại bỏ những cảnh báo phiền phức như thế này sau khi có quyền truy cập beta!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "获得测试资格后即可移除此类提示！"
+          }
         }
       }
     },
@@ -9068,6 +10268,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Xoá app sau khi ký"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "签名后移除原应用"
           }
         }
       }
@@ -9128,6 +10334,12 @@
             "state" : "translated",
             "value" : "Loại bỏ tệp Provisioning"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除描述文件"
+          }
         }
       }
     },
@@ -9186,6 +10398,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Loại bỏ thiết bị được hỗ trợ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除支持设备限制"
           }
         }
       }
@@ -9246,6 +10464,12 @@
             "state" : "translated",
             "value" : "Xóa cảnh báo này"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不再显示此提示"
+          }
         }
       }
     },
@@ -9304,6 +10528,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Loại bỏ URL Scheme"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除 URL Scheme"
           }
         }
       }
@@ -9364,6 +10594,12 @@
             "state" : "translated",
             "value" : "Xóa ứng dụng Watch"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "移除 Watch 占位应用"
+          }
         }
       }
     },
@@ -9391,6 +10627,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đổi tên"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重命名"
           }
         }
       }
@@ -9421,6 +10663,12 @@
             "state" : "translated",
             "value" : "Đổi tên tệp"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重命名文件"
+          }
         }
       }
     },
@@ -9443,6 +10691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thay đổi Substrate với ElleKit"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将 Substrate 替换为 ElleKit"
           }
         }
       }
@@ -9503,6 +10757,12 @@
             "state" : "translated",
             "value" : "Thay thế"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "替换"
+          }
         }
       }
     },
@@ -9561,6 +10821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kho lưu trữ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "软件源"
           }
         }
       }
@@ -9621,6 +10887,12 @@
             "state" : "translated",
             "value" : "Đặt lại"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置"
+          }
         }
       }
     },
@@ -9644,6 +10916,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đặt lại tất cả cài đặt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置全部"
           }
         }
       }
@@ -9669,6 +10947,12 @@
             "state" : "translated",
             "value" : "Đặt lại chứng chỉ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置证书"
+          }
         }
       }
     },
@@ -9693,6 +10977,12 @@
             "state" : "translated",
             "value" : "Đặt lại ứng dụng đã nhập"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置已导入的应用"
+          }
         }
       }
     },
@@ -9714,6 +11004,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đặt lại bộ nhớ đệm mạng"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除网络缓存"
           }
         }
       }
@@ -9739,6 +11035,12 @@
             "state" : "translated",
             "value" : "Đặt lại cài đặt ký"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置设置"
+          }
         }
       }
     },
@@ -9762,6 +11064,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đặt lại ứng dụng đã ký"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置已签名的应用"
           }
         }
       }
@@ -9787,6 +11095,12 @@
             "state" : "translated",
             "value" : "Đặt lại nguồn"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置软件源"
+          }
         }
       }
     },
@@ -9809,6 +11123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đặt lại kho ứng dụng, chứng chỉ, app, và những thứ khác."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置软件源、证书、应用及其他内容。"
           }
         }
       }
@@ -9834,6 +11154,12 @@
             "state" : "translated",
             "value" : "Đặt lại kho ứng dụng, chứng chỉ, app, và những thứ khác."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置软件源、证书、应用及其他内容"
+          }
         }
       }
     },
@@ -9858,6 +11184,12 @@
             "state" : "translated",
             "value" : "Đặt lại kho ứng dụng, chứng chỉ, app, và những thứ khác."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重置软件源、证书、应用及其他内容。"
+          }
         }
       }
     },
@@ -9881,6 +11213,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Đặt lại bộ nhớ đệm hoạt động"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "清除工作缓存"
           }
         }
       }
@@ -9941,6 +11279,12 @@
             "state" : "translated",
             "value" : "Khởi động lại Heartbeat"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重启心跳连接"
+          }
         }
       }
     },
@@ -10000,6 +11344,12 @@
             "state" : "translated",
             "value" : "Yêu cầu Khởi động lại"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "需要重启"
+          }
         }
       }
     },
@@ -10021,6 +11371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thư mục gốc"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根字典"
           }
         }
       }
@@ -10080,6 +11436,12 @@
             "state" : "translated",
             "value" : "Lưu"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
         }
       }
     },
@@ -10103,6 +11465,12 @@
             "state" : "translated",
             "value" : "Lưu mục tải về từ App Store vào mục Tải xuống"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将商店下载的应用保存到下载目录"
+          }
         }
       }
     },
@@ -10124,6 +11492,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tìm kiếm Hex hoặc ASCII"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "搜索十六进制或 ASCII"
           }
         }
       }
@@ -10185,6 +11559,12 @@
             "state" : "translated",
             "value" : "Xem tất cả ứng dụng từ các nguồn hiện có"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看所有软件源中的应用"
+          }
         }
       }
     },
@@ -10244,6 +11624,12 @@
             "state" : "translated",
             "value" : "Có vẻ như bạn đã có tệp ghép nối của mình!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "看来你已经获取了配对文件！"
+          }
         }
       }
     },
@@ -10266,6 +11652,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chọn tất cả"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全选"
           }
         }
       }
@@ -10327,6 +11719,12 @@
             "state" : "translated",
             "value" : "Chọn icon thay thế"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择备用图标"
+          }
         }
       }
     },
@@ -10387,6 +11785,12 @@
             "state" : "translated",
             "value" : "Chọn tệp entitlements"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择授权权限文件"
+          }
         }
       }
     },
@@ -10446,6 +11850,12 @@
             "state" : "translated",
             "value" : "Bán cục bộ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "半本地"
+          }
         }
       }
     },
@@ -10469,6 +11879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Server (Khuyên dùng):\nSử dụng máy chủ lưu trữ cục bộ và itms-services:// để cài đặt ứng dụng.\n\nIDevice (nâng cao):\nSử dụng VPN và tệp ghép nối (pairing file). Ghi vào AFC và gọi installd một cách thủ công, đồng thời theo dõi tiến trình cài đặt bằng cách sử dụng một callback\nƯu điểm: Rất đáng tin cậy, không cần chứng chỉ SSL hay máy chủ lưu trữ bên ngoài. Thay vào đó, nó hoạt động tương tự như một chiếc máy tính."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "服务器（推荐）：\n使用本地服务器，通过 itms-services:// 安装应用。\n\nIDevice（高级）：\n使用 VPN 和配对文件，通过 AFC 写入文件并手动调用 installd，同时通过回调监控安装进度。\n优点：可靠性高，无需 SSL 证书或外部服务器，工作方式类似于电脑安装。"
           }
         }
       }
@@ -10528,6 +11944,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Máy chủ & SSL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "服务器与 SSL"
           }
         }
       }
@@ -10589,6 +12011,12 @@
             "state" : "translated",
             "value" : "Cài đặt"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置"
+          }
         }
       }
     },
@@ -10610,6 +12038,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chia sẻ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "分享"
           }
         }
       }
@@ -10640,6 +12074,12 @@
             "state" : "translated",
             "value" : "Hiển thị Dylibs"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示动态库"
+          }
         }
       }
     },
@@ -10663,6 +12103,12 @@
             "state" : "translated",
             "value" : "Hiển thị nhật ký khi ký"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "签名时显示日志"
+          }
         }
       }
     },
@@ -10684,6 +12130,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Có gì mới"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示更新说明"
           }
         }
       }
@@ -10745,6 +12197,12 @@
             "state" : "translated",
             "value" : "Hiển thị bảng khi xuất"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导出时显示分享面板"
+          }
         }
       }
     },
@@ -10803,6 +12261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bày tỏ sự ủng hộ của bạn"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持我们"
           }
         }
       }
@@ -10863,6 +12327,12 @@
             "state" : "translated",
             "value" : "Bày tỏ sự ủng hộ của bạn bằng cách quyên góp! Nếu bạn không thể quyên góp, việc chia sẻ cho người khác biết cũng có tác dụng!"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "欢迎通过捐赠支持我们！如果暂时无法捐赠，向他人推荐也能给予我们支持！"
+          }
         }
       }
     },
@@ -10922,6 +12392,12 @@
             "state" : "translated",
             "value" : "Ký"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "签名"
+          }
         }
       }
     },
@@ -10944,6 +12420,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ký & cài đặt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "签名并安装"
           }
         }
       }
@@ -11004,6 +12486,12 @@
             "state" : "translated",
             "value" : "Đã ký"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已签名"
+          }
         }
       }
     },
@@ -11026,6 +12514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ứng dụng đã ký"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已签名的应用"
           }
         }
       }
@@ -11086,6 +12580,12 @@
             "state" : "translated",
             "value" : "Ký"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在签名"
+          }
         }
       }
     },
@@ -11145,6 +12645,12 @@
             "state" : "translated",
             "value" : "Tùy chọn ký"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "签名选项"
+          }
         }
       }
     },
@@ -11174,6 +12680,12 @@
             "state" : "translated",
             "value" : "Kích cỡ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大小"
+          }
         }
       }
     },
@@ -11196,6 +12708,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nguồn"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "软件源"
           }
         }
       }
@@ -11256,6 +12774,12 @@
             "state" : "translated",
             "value" : "URL nguồn"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "软件源 URL"
+          }
         }
       }
     },
@@ -11314,6 +12838,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nguồn"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "软件源"
           }
         }
       }
@@ -11374,6 +12904,12 @@
             "state" : "translated",
             "value" : "Nhà tài trợ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赞助者"
+          }
         }
       }
     },
@@ -11432,6 +12968,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chứng chỉ SSL"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL 证书"
           }
         }
       }
@@ -11492,6 +13034,12 @@
             "state" : "translated",
             "value" : "Tiêu chuẩn"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "标准"
+          }
         }
       }
     },
@@ -11550,6 +13098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bắt đầu ký"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始签名"
           }
         }
       }
@@ -11610,6 +13164,12 @@
             "state" : "translated",
             "value" : "Giao diện cửa hàng"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商店列表样式"
+          }
         }
       }
     },
@@ -11669,6 +13229,12 @@
             "state" : "translated",
             "value" : "Chuỗi"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字符串"
+          }
         }
       }
     },
@@ -11690,6 +13256,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chuỗi ký tự:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字符串表示："
           }
         }
       }
@@ -11713,6 +13285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Không hoạt động? Kiểm tra xem bạn đã thêm nguồn nào chưa."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有内容？请检查是否已添加软件源。"
           }
         }
       }
@@ -11773,6 +13351,12 @@
             "state" : "translated",
             "value" : "Gửi phản hồi"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提交反馈"
+          }
         }
       }
     },
@@ -11796,6 +13380,12 @@
             "state" : "translated",
             "value" : "Thành công"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "成功"
+          }
         }
       }
     },
@@ -11818,6 +13408,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thành công nhập %@ vào thư viện"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已将 %@ 导入应用库"
           }
         }
       }
@@ -11848,6 +13444,12 @@
             "state" : "translated",
             "value" : "Đã đóng gói %1$@ thành %2$@ thành công"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已将 %1$@ 打包为 %2$@"
+          }
         }
       }
     },
@@ -11870,6 +13472,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hậu tố"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "后缀"
           }
         }
       }
@@ -11930,6 +13538,12 @@
             "state" : "translated",
             "value" : "Hỗ trợ nhập từ KravaSign/MapleSign và ESign"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持从 KravaSign/MapleSign 和 ESign 导入"
+          }
         }
       }
     },
@@ -11952,6 +13566,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quay lại"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换回原方式"
           }
         }
       }
@@ -12012,6 +13632,12 @@
             "state" : "translated",
             "value" : "Định danh nhóm"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "团队标识符"
+          }
         }
       }
     },
@@ -12071,6 +13697,12 @@
             "state" : "translated",
             "value" : "Tên nhóm"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "团队名称"
+          }
         }
       }
     },
@@ -12092,6 +13724,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chỉnh sửa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本编辑器"
           }
         }
       }
@@ -12152,6 +13790,12 @@
             "state" : "translated",
             "value" : "Heartbeat được kích hoạt trong nền, nó sẽ khởi động lại khi ứng dụng được mở lại hoặc được nhắc nhở. Nếu trạng thái bên dưới đang nhịp đập, điều đó có nghĩa là nó hoạt động bình thường."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心跳连接会在后台运行，并在重新打开应用或触发时重启。若下方状态持续闪动，则表示连接正常。"
+          }
         }
       }
     },
@@ -12211,6 +13855,12 @@
             "state" : "translated",
             "value" : "Bạn cần khởi động lại ứng dụng sau khi thực hiện những thay đổi này"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这些更改需要重启应用才能生效"
+          }
         }
       }
     },
@@ -12233,6 +13883,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cái này sẽ bật hiệu ứng Liquid Glass cho Ksign, yêu cầu khởi động lại app"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "为本应用启用液态玻璃效果，重启应用后生效。"
           }
         }
       }
@@ -12257,6 +13913,12 @@
             "state" : "translated",
             "value" : "Lựa chọn này sẽ ép ứng dụng sử dụng Liquid Glass trên iOS 26, tuy nhiên vài app có thể sẽ không hoạt động nếu framework khác nhau."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此选项会尝试强制应用使用 iOS 26 引入的液态玻璃设计。由于框架不同，部分应用可能无法生效。"
+          }
         }
       }
     },
@@ -12278,6 +13940,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tệp plist này không có mục nào cả"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此属性列表中没有任何项目"
           }
         }
       }
@@ -12302,6 +13970,12 @@
             "state" : "translated",
             "value" : "Bật sẽ giúp cho ứng dụng chạy nền khi bạn đóng ứng dụng, hữu ích khi đang tải tệp hoặc đang cài đặt IPA"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "离开应用后仍保持其在后台运行，便于继续下载或安装 IPA。"
+          }
         }
       }
     },
@@ -12324,6 +13998,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mục này sẽ gửi thông báo khi tải về trong nền hoàn tất."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载完成后发送通知。"
           }
         }
       }
@@ -12348,6 +14028,12 @@
             "state" : "translated",
             "value" : "Cái này sẽ xoá ứng dụng ở mục ứng dụng đã tải sau khi ký"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "签名完成后移除“已下载的应用”中的原应用。"
+          }
         }
       }
     },
@@ -12371,6 +14057,12 @@
             "state" : "translated",
             "value" : "Cái này sẽ lưu những mục đã tải về từ App Store vào thư mục tải về, tắt mục này có thể giúp giảm thiểu dung lượng sử dụng"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "将应用商店下载的文件保存到下载目录。关闭此选项可减少存储空间占用。"
+          }
         }
       }
     },
@@ -12393,6 +14085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cái này sẽ hiện nhật ký khi bắt đầu ký."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开始签名时显示签名过程日志。"
           }
         }
       }
@@ -12453,6 +14151,12 @@
             "state" : "translated",
             "value" : "Việc bật hiển thị bảng sẽ hiện một bảng chia sẻ sau khi xuất tệp của bạn."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用后，将在文件导出完成时显示分享面板。"
+          }
         }
       }
     },
@@ -12511,6 +14215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tunnel & Ghép nối"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "隧道与配对"
           }
         }
       }
@@ -12603,6 +14313,12 @@
             "state" : "translated",
             "value" : "Loại"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "类型"
+          }
         }
       }
     },
@@ -12662,6 +14378,12 @@
             "state" : "translated",
             "value" : "Không xác định"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未知"
+          }
         }
       }
     },
@@ -12683,6 +14405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chưa lưu thay đổi"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未保存的更改"
           }
         }
       }
@@ -12743,6 +14471,12 @@
             "state" : "translated",
             "value" : "Cập nhật chứng chỉ SSL"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新 SSL 证书"
+          }
         }
       }
     },
@@ -12765,6 +14499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cập nhật lần cuối"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新时间"
           }
         }
       }
@@ -12849,6 +14589,12 @@
             "state" : "translated",
             "value" : "Dùng App ID của chứng chỉ, điều này sẽ giúp app ký sẽ dùng được những tính năng sử dụng entilements của chứng chỉ"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用证书的 App ID，以便应用使用证书授权权限所支持的功能。"
+          }
         }
       }
     },
@@ -12872,6 +14618,12 @@
             "state" : "translated",
             "value" : "Sử dụng địa chỉ cuối"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用上次复制的位置"
+          }
         }
       }
     },
@@ -12893,6 +14645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Giá trị"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "值"
           }
         }
       }
@@ -12951,6 +14709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Phiên bản"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本"
           }
         }
       }
@@ -13012,6 +14776,12 @@
             "state" : "translated",
             "value" : "Xem Entitlements"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看授权权限"
+          }
         }
       }
     },
@@ -13033,6 +14803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chế độ xem"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看模式"
           }
         }
       }
@@ -13094,6 +14870,12 @@
             "state" : "translated",
             "value" : "Truy cập Patreon"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "访问 Patreon"
+          }
         }
       }
     },
@@ -13154,6 +14936,12 @@
             "state" : "translated",
             "value" : "Truy cập trang web"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "访问网站"
+          }
         }
       }
     },
@@ -13175,6 +14963,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trình duyệt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "网页浏览器"
           }
         }
       }
@@ -13199,6 +14993,12 @@
             "state" : "translated",
             "value" : "Khi muốn di chuyển file mà muốn dùng thư mục chính của Ksign thì tắt, ngược lại dùng vị trí cuối dùng thì bật."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择记住上次复制或移动文件的目标位置，或默认使用 Ksign 的文稿目录。"
+          }
         }
       }
     },
@@ -13222,6 +15022,12 @@
             "state" : "translated",
             "value" : "Ối! Có vấn đề khi cố gắng giải nén file. Thử thay đổi thư viện giải nén trong phần cài đặt xem?"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解压文件时出错。\n请尝试在设置中切换解压库。"
+          }
         }
       }
     },
@@ -13243,6 +15049,1095 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bạn có thay đổi chưa lưu, bạn có muốn lưu trước khi đóng không?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你有尚未保存的更改，是否在关闭前保存？"
+          }
+        }
+      }
+    },
+    "%lld days" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld day"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld days"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 天"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld Items" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Item"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Items"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 项"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Accent Color" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主题色"
+          }
+        }
+      }
+    },
+    "All sources copied to clipboard." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已将所有软件源复制到剪贴板。"
+          }
+        }
+      }
+    },
+    "Available Icons" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可用图标"
+          }
+        }
+      }
+    },
+    "Best" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最佳压缩"
+          }
+        }
+      }
+    },
+    "Blue" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蓝色"
+          }
+        }
+      }
+    },
+    "Bulk Signing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "批量签名"
+          }
+        }
+      }
+    },
+    "Category" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "类别"
+          }
+        }
+      }
+    },
+    "Cherry" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "樱桃红"
+          }
+        }
+      }
+    },
+    "Copy Download URL" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制下载链接"
+          }
+        }
+      }
+    },
+    "Copy Download URLs" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制下载链接"
+          }
+        }
+      }
+    },
+    "Cyan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "青色"
+          }
+        }
+      }
+    },
+    "Dark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "深色"
+          }
+        }
+      }
+    },
+    "Developer" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "开发者"
+          }
+        }
+      }
+    },
+    "Disable Liquid Glass" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "禁用液态玻璃"
+          }
+        }
+      }
+    },
+    "Discord Server" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discord 社区"
+          }
+        }
+      }
+    },
+    "Download Completed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载完成"
+          }
+        }
+      }
+    },
+    "Enter a name for the new text file" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入新文本文件的名称"
+          }
+        }
+      }
+    },
+    "Error creating folder: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建文件夹时出错：%@"
+          }
+        }
+      }
+    },
+    "Error creating text file: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "创建文本文件时出错：%@"
+          }
+        }
+      }
+    },
+    "Error loading files: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加载文件时出错：%@"
+          }
+        }
+      }
+    },
+    "Error renaming file: %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重命名文件时出错：%@"
+          }
+        }
+      }
+    },
+    "Experiments" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "实验性功能"
+          }
+        }
+      }
+    },
+    "Failed to delete %lld items" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Failed to delete %lld item"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Failed to delete %lld items"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 项删除失败"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Failed to import %lld files" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Failed to import %lld file"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Failed to import %lld files"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 个文件导入失败"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Folder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件夹"
+          }
+        }
+      }
+    },
+    "Frameworks & Dylibs" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "框架与动态库"
+          }
+        }
+      }
+    },
+    "From Nyasami, Version %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "来自 Nyasami，版本 %@"
+          }
+        }
+      }
+    },
+    "GameMode" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "游戏模式"
+          }
+        }
+      }
+    },
+    "Get started by adding your first repository." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加第一个软件源以开始使用。"
+          }
+        }
+      }
+    },
+    "Get started by importing your first IPA file." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入第一个 IPA 文件以开始使用。"
+          }
+        }
+      }
+    },
+    "Green" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "绿色"
+          }
+        }
+      }
+    },
+    "https://example.com" : {
+      "extractionState" : "manual",
+      "shouldTranslate" : false
+    },
+    "idevice" : {
+      "extractionState" : "manual",
+      "shouldTranslate" : false
+    },
+    "Import Error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入错误"
+          }
+        }
+      }
+    },
+    "Importing your .dylib, .deb or .framework files \n These will also be automatically added to Tweaks folder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "导入 .dylib、.deb 或 .framework 文件。\n这些文件也会自动添加到 Tweaks 文件夹。"
+          }
+        }
+      }
+    },
+    "Indigo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "靛蓝色"
+          }
+        }
+      }
+    },
+    "Inject into Extensions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注入到应用扩展"
+          }
+        }
+      }
+    },
+    "Injection" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注入"
+          }
+        }
+      }
+    },
+    "Injection Folder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注入目录"
+          }
+        }
+      }
+    },
+    "Injection Path" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注入路径"
+          }
+        }
+      }
+    },
+    "Invalid URL format" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL 格式无效"
+          }
+        }
+      }
+    },
+    "Ksign certificate file (.ksign) is now unsupported from v1.5.1, please refer to use .p12 and .mobileprovision instead." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自 v1.5.1 起不再支持 Ksign 证书文件（.ksign），请改用 .p12 和 .mobileprovision 文件。"
+          }
+        }
+      }
+    },
+    "Less" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "收起"
+          }
+        }
+      }
+    },
+    "Light" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "浅色"
+          }
+        }
+      }
+    },
+    "Mint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "薄荷绿"
+          }
+        }
+      }
+    },
+    "More" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "展开"
+          }
+        }
+      }
+    },
+    "No Certificates" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无证书"
+          }
+        }
+      }
+    },
+    "No Entitlements listed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未列出授权权限。"
+          }
+        }
+      }
+    },
+    "No Frameworks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无框架"
+          }
+        }
+      }
+    },
+    "No frameworks or dylibs found in this app" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此应用中未找到框架或动态库"
+          }
+        }
+      }
+    },
+    "No Privacy Permissions listed." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未列出隐私权限。"
+          }
+        }
+      }
+    },
+    "No release notes available" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无更新说明"
+          }
+        }
+      }
+    },
+    "No Repositories" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无软件源"
+          }
+        }
+      }
+    },
+    "None" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无压缩"
+          }
+        }
+      }
+    },
+    "Only modify (No signing)" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅修改（不签名）"
+          }
+        }
+      }
+    },
+    "Only use this when you have Ad Hoc certificates" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅在拥有 Ad Hoc 证书时使用此选项"
+          }
+        }
+      }
+    },
+    "Open App Files" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开应用文件"
+          }
+        }
+      }
+    },
+    "Open Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开设置"
+          }
+        }
+      }
+    },
+    "Orange" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "橙色"
+          }
+        }
+      }
+    },
+    "Permissions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "权限"
+          }
+        }
+      }
+    },
+    "Pink" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粉色"
+          }
+        }
+      }
+    },
+    "Please open settings and grant permission to send notifications." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请打开设置，允许发送通知。"
+          }
+        }
+      }
+    },
+    "PlugIns" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "插件"
+          }
+        }
+      }
+    },
+    "Purple" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紫色"
+          }
+        }
+      }
+    },
+    "Red" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "红色"
+          }
+        }
+      }
+    },
+    "Revoked" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已撤销"
+          }
+        }
+      }
+    },
+    "Screenshots" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "屏幕截图"
+          }
+        }
+      }
+    },
+    "Server" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "服务器"
+          }
+        }
+      }
+    },
+    "Show Logs" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示日志"
+          }
+        }
+      }
+    },
+    "Speed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "优先速度"
+          }
+        }
+      }
+    },
+    "Status" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "状态"
+          }
+        }
+      }
+    },
+    "Teal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蓝绿色"
+          }
+        }
+      }
+    },
+    "Telegram Channel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telegram 频道"
+          }
+        }
+      }
+    },
+    "Text file name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本文件名"
+          }
+        }
+      }
+    },
+    "The IPA file is being downloaded!\nYou can close this window or download more!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在下载 IPA 文件！\n你可以关闭此窗口，或继续添加下载！"
+          }
+        }
+      }
+    },
+    "These options will change apps behaviours" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这些选项将改变应用的行为"
+          }
+        }
+      }
+    },
+    "These options will remove stuff in unsigned IPAs" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这些选项会移除未签名 IPA 中的相关内容"
+          }
+        }
+      }
+    },
+    "This couldn't have been done without the original Feather devs! ❤️" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感谢原版 Feather 开发者，没有他们就没有这个项目！❤️"
+          }
+        }
+      }
+    },
+    "This is the current accent color" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这是当前使用的主题色"
+          }
+        }
+      }
+    },
+    "This option try to disable liquid glass on iOS 26 if the app support it (might not work for all apps)." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在应用支持的情况下，尝试禁用 iOS 26 的液态玻璃效果（可能对部分应用无效）。"
+          }
+        }
+      }
+    },
+    "This version introduces:\n\n- Optimization for iOS 26\n- Bulk installation support for multiple apps\n- idevice installation method\n- Custom injection path & support for injecting tweaks into App Extensions\n- Support for .bundle files as tweaks (copied directly into the app bundle)\n- rsd support\n- Fix empty display name handling in Info.plist\n- Fix URL scheme issues for Ksign\n- Fix codesigning errors on specific apps with unusual bundle structures\n- Localization updates for German, Russian, Arabic, and Vietnamese" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此版本带来以下更新：\n\n- 针对 iOS 26 进行优化\n- 支持批量安装多个应用\n- 新增 idevice 安装方式\n- 支持自定义注入路径及向应用扩展注入插件\n- 支持将 .bundle 文件作为插件（直接复制到应用包中）\n- 支持 rsd\n- 修复 Info.plist 中显示名称为空时的处理问题\n- 修复 Ksign 的 URL Scheme 问题\n- 修复部分采用特殊应用包结构的应用签名失败的问题\n- 更新德语、俄语、阿拉伯语和越南语翻译"
+          }
+        }
+      }
+    },
+    "This will force the app to use localizations" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "强制修改各语言的应用显示名称"
+          }
+        }
+      }
+    },
+    "Version History" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本历史"
+          }
+        }
+      }
+    },
+    "What's New" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新内容"
+          }
+        }
+      }
+    },
+    "Yellow" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黄色"
+          }
+        }
+      }
+    },
+    "You cannot update ‘%@‘ with itself, please use an alternative tool to update it." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法使用“%@”更新自身，请使用其他工具更新。"
+          }
+        }
+      }
+    },
+    "You don't want to delete your only certificate, right >.<?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "这是你唯一的证书，确定要删除吗 >.<?"
+          }
+        }
+      }
+    },
+    "You don't want to do this!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请谨慎操作！"
+          }
+        }
+      }
+    },
+    "You have denied!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通知权限未开启"
           }
         }
       }
