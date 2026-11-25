@@ -7,7 +7,7 @@
 
 又一款 iOS 应用签名工具。你有没有想过，如果将 Feather 与 Esign 结合起来，会是什么样子？
 
-本仓库在原版 [Ksign](https://github.com/Nyasami/Ksign) 的基础上添加了简体中文支持，涵盖导航、设置、签名、证书、下载和文件管理等界面。下方的版本下载、社区链接和 Star 历史均属于上游项目。
+本仓库在原版 [Ksign](https://github.com/Nyasami/Ksign) 的基础上添加了简体中文支持，涵盖导航、设置、签名、证书、下载和文件管理等界面。
 
 ## 为什么开发 Ksign？
 
@@ -23,28 +23,10 @@ Esign 停止服务后，用户开始转向其他签名工具。但 Esign 曾是�
 
 你也可以加入 [Ksign Discord 社区](https://discord.gg/sfbZfQzVdQ)，与其他用户交流。
 
-## 下载与使用
-
-如需使用本仓库添加的简体中文界面，请编译本仓库源码并安装，再将系统或 App 的语言设置为简体中文。
-
-原版 IPA 可前往[上游发布页面](https://github.com/Nyasami/Ksign-public/releases)下载。该链接指向上游原版，不代表本仓库的中文构建。
-
-## 上游 Star 历史
-
-<a href="https://www.star-history.com/?repos=nyasami%2Fksign&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nyasami/ksign&type=date&theme=dark&legend=top-left&sealed_token=qF8r8F35jlacPKoDFdro6gYpDDUbVGloo-UPsBBqrAufefIWUZ7MY_TmH4j_UB2ailJBO_OYzkYV-jye9GlGJR-PfMID-XHRW52SHl--bD976zJlaiDwOA" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nyasami/ksign&type=date&legend=top-left&sealed_token=qF8r8F35jlacPKoDFdro6gYpDDUbVGloo-UPsBBqrAufefIWUZ7MY_TmH4j_UB2ailJBO_OYzkYV-jye9GlGJR-PfMID-XHRW52SHl--bD976zJlaiDwOA" />
-   <img alt="上游 Star 历史图表" src="https://api.star-history.com/chart?repos=nyasami/ksign&type=date&legend=top-left&sealed_token=qF8r8F35jlacPKoDFdro6gYpDDUbVGloo-UPsBBqrAufefIWUZ7MY_TmH4j_UB2ailJBO_OYzkYV-jye9GlGJR-PfMID-XHRW52SHl--bD976zJlaiDwOA" />
- </picture>
-</a>
-
-## 特别鸣谢
-
-- [claration](https://github.com/claration/Feather) 开发的 Feather，为原项目提供了基础。
-- 产品经理 Khoindvn。
-- 以及每一位使用这款应用的你 ❤️
-
 ## 免责声明
 
-上游项目声明，其源码和发布版本均通过 GitHub 维护和分发，未设立独立官网。请谨慎对待冒充官方的网站或未经核实的第三方下载站，以免下载到恶意软件或受到误导。
+本仓库是原版 Ksign 的非官方中文版本，仅对界面文案做本地化处理，作者与上游项目维护者无隶属关系。
+
+本项目仅用于学习与技术交流，请勿将签名工具用于分发盗版应用、绕过付费或任何违反当地法律法规的行为。使用本工具签名和安装的应用所产生的一切后果，由使用者自行承担。
+
+本仓库按原样提供，不提供任何形式的担保。源码遵循仓库中的 [GPL-3.0 许可证](LICENSE) 分发，上游项目的版权归原作者所有。
