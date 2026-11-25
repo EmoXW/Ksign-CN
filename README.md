@@ -2,12 +2,20 @@
 
 # Ksign-CN
 
-[![上游发布版本](https://img.shields.io/github/v/release/nyasami/ksign?style=for-the-badge&color=3c94fc)](https://github.com/nyasami/ksign/releases/latest)
-[![上游累计下载量](https://img.shields.io/github/downloads/nyasami/ksign/total?style=for-the-badge&color=6bc563)](https://github.com/nyasami/ksign/releases)
+[![最新版本](https://img.shields.io/github/v/release/EmoXW/Ksign-CN?style=for-the-badge&color=3c94fc)](https://github.com/EmoXW/Ksign-CN/releases/latest)
+[![累计下载量](https://img.shields.io/github/downloads/EmoXW/Ksign-CN/total?style=for-the-badge&color=6bc563)](https://github.com/EmoXW/Ksign-CN/releases)
 
 又一款 iOS 应用签名工具。你有没有想过，如果将 Feather 与 Esign 结合起来，会是什么样子？
 
 本仓库在原版 [Ksign](https://github.com/Nyasami/Ksign) 的基础上添加了简体中文支持，涵盖导航、设置、签名、证书、下载和文件管理等界面。
+
+## 下载
+
+前往 [Releases](https://github.com/EmoXW/Ksign-CN/releases/latest) 下载最新版本的 IPA。
+
+该安装包为 **ad-hoc 签名**，未使用开发者证书，安装前需要使用自己的证书重新签名，例如使用 Sideloadly、AltStore 或 SideStore 等工具重签，或使用自备证书签名后通过 TrollStore 安装。
+
+安装完成后，在系统设置中将语言设为简体中文，即可使用中文界面。
 
 ## 为什么开发 Ksign？
 
