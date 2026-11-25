@@ -91,8 +91,8 @@ class AppDelegate: NSObject, UIApplicationDelegate {
         _addDefaultCertificates()
 
 #if SERVER
-        // fallback just in case xd
-        _downloadSSLCertificates()
+        // Refresh only when the installed certificate is missing or expiring.
+        SSLConfiguration.refreshIfNeeded()
 #endif
         return true
     }
@@ -147,29 +147,7 @@ class AppDelegate: NSObject, UIApplicationDelegate {
     }
     
     private func _copyServerCertificates() {
-        let fileManager = FileManager.default
-        let serverDirectory = URL.documentsDirectory.appendingPathComponent("App/Server")
-        
-        try? fileManager.createDirectoryIfNeeded(at: serverDirectory)
-        
-        let filesToCopy = ["server.crt", "server.pem", "commonName.txt"]
-        
-        for fileName in filesToCopy {
-            guard let bundleURL = Bundle.main.url(forResource: fileName.components(separatedBy: ".").first!, withExtension: fileName.components(separatedBy: ".").last!) else {
-                print("File \(fileName) not found in app bundle")
-                continue
-            }
-            
-            let destinationURL = serverDirectory.appendingPathComponent(fileName)
-            
-            try? fileManager.removeItem(at: destinationURL)
-            
-            do {
-                try fileManager.copyItem(at: bundleURL, to: destinationURL)
-            } catch {
-                print("Error copying \(fileName): \(error)")
-            }
-        }
+        SSLConfiguration.stageBundledCertificatesIfNeeded()
     }
     
     private func _addDefaultCertificates() {
@@ -221,18 +199,4 @@ class AppDelegate: NSObject, UIApplicationDelegate {
                 Logger.misc.error("Failed to list signing-assets: \(error)")
             }
         }
-
-#if SERVER
-    private func _downloadSSLCertificates() {
-        let serverURL = "https://backloop.dev/pack.json"
-        
-        FR.downloadSSLCertificates(from: serverURL) { success in
-            if success {
-                print("SSL certificates downloaded successfully")
-            } else {
-                print("Failed to download SSL certificates")
-            }
-        }
-    }
-#endif
 }

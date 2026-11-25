@@ -16141,6 +16141,74 @@
           }
         }
       }
+    },
+    "No certificate installed, tap Update SSL Certificates to download one." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No certificate installed, tap Update SSL Certificates to download one."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尚未安装证书，点击“更新 SSL 证书”下载。"
+          }
+        }
+      }
+    },
+    "Certificate expired on %@, please update it." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certificate expired on %@, please update it."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书已于 %@ 过期，请更新。"
+          }
+        }
+      }
+    },
+    "Certificate expires on %@, please update it soon." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certificate expires on %@, please update it soon."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书将于 %@ 过期，请尽快更新。"
+          }
+        }
+      }
+    },
+    "Certificate valid until %@." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certificate valid until %@."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "证书有效期至 %@。"
+          }
+        }
+      }
     }
   },
   "version" : "1.1"
