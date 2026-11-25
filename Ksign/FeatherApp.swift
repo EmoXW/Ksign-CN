@@ -84,10 +84,6 @@ class AppDelegate: NSObject, UIApplicationDelegate {
         
         _createPipeline()
         _createSourcesDirectory()
-        if !UserDefaults.standard.bool(forKey: "hasInitializedBuiltInSources") {
-            _initializeBuiltInSources()
-            UserDefaults.standard.set(true, forKey: "hasInitializedBuiltInSources")
-        }
         
         _clean()
         
@@ -99,10 +95,6 @@ class AppDelegate: NSObject, UIApplicationDelegate {
         _downloadSSLCertificates()
 #endif
         return true
-    }
-    
-    private func _initializeBuiltInSources() { 
-        Storage.shared.addBuiltInSources()
     }
     
     private func _createPipeline() {
